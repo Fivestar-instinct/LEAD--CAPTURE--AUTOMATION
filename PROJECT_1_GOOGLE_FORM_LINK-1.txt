@@ -1,0 +1,66 @@
+================================================================================
+PROJECT 1: LEAD CAPTURE AUTOMATION
+Google Form Link & Documentation
+================================================================================
+
+GOOGLE FORM URL:
+https://docs.google.com/forms/d/e/1FAIpQLSd_tSpLd0lcxs4i8mGxwi-TClHeQsHcGO34w0lJ6ftwvzVNpA/viewform?usp=header
+
+Form Name: Get Your Free Marketing Consultation
+
+Form Fields:
+- Timestamp (auto-generated)
+- Full Name (required)
+- Email Address (required)
+- Business Name
+- What do you need help with? (textarea)
+
+Connected Google Sheet:
+Sheet Name: Get Your Free Marketing Consultation (Responses)
+Sheet ID: Form Responses 1
+
+Form Status: ACTIVE (collecting responses)
+Last Updated: June 28, 2026
+
+How to use this form:
+1. Share the form link with prospects
+2. Form responses auto-save to Google Sheet
+3. Make.com watches for new rows
+4. Welcome email sent automatically within 30 seconds
+
+Current Form Status:
+- Questions: 5
+- Responses collected: 100+ (sample data)
+- Active: Yes
+- Collecting: Yes
+
+To modify this form:
+1. Open the form link above
+2. Click "Edit" (pencil icon)
+3. Add/remove questions as needed
+4. Make.com will detect changes automatically
+
+To share this form:
+- Copy the link above
+- Send via email
+- Embed on website
+- Share on social media
+
+Integration Status:
+✅ Form → Google Sheets (connected)
+✅ Google Sheets → Make.com (watching)
+✅ Make.com → Gmail (sending email)
+
+Next Steps:
+1. Test form submission
+2. Verify email arrives within 30 seconds
+3. Check response sheet updated
+4. Monitor for 7 days
+5. Optimize template based on data
+
+Support:
+Built by: Ashutosh Tiwari
+Email: ashtoshtiwari65@gmail.com
+Phone: +91 98605 76965
+
+================================================================================
